@@ -1,2 +1,3 @@
 # hini.nvih
-You are looking for mini.nvim
+You are really looking for [mini.nvim](https://github.com/echasnovski/mini.nvim).
+
